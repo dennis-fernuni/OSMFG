@@ -1,0 +1,10 @@
+id              = space "id=" '"' number '"' .
+lat             = space "lat=" '"' [ "-" ] "0 ... 90" "." digit digit digit digit digit digit digit '"' .
+lat             = space "lon=" '"' [ "-" ] "0 ... 180" "." digit digit digit digit digit digit digit '"' .
+user            = space "user=" '"'  text  '"' .
+uid             = space "uid=" '"' number '"' .
+visible         = space "visible=" '"' boolean '"' .
+version         = space "version=" '"' number '"' .
+changeset       = space "changeset=" '"' number '"' .
+timestamp       = space "timestamp=" '"' "2011-02-21T18:08:47Z" '"' .
+space           = " " .

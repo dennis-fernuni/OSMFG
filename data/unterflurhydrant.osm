@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="1174487475" version="1" timestamp="2011-02-26T11:57:45Z" uid="109035" user="Teddy80" changeset="7399050" lat="51.5857089" lon="13.2356179">
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432626" version="2" timestamp="2011-04-03T13:54:55Z" uid="94315" user="shogun" changeset="7754421" lat="51.054571" lon="12.6905285">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432627" version="1" timestamp="2011-03-29T17:07:12Z" uid="94315" user="shogun" changeset="7708578" lat="51.0530741" lon="12.6982927">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432629" version="1" timestamp="2011-03-29T17:07:12Z" uid="94315" user="shogun" changeset="7708578" lat="51.0545517" lon="12.6945789">
+
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432638" version="1" timestamp="2011-03-29T17:07:12Z" uid="94315" user="shogun" changeset="7708578" lat="51.0525803" lon="12.692936">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432639" version="1" timestamp="2011-03-29T17:07:12Z" uid="94315" user="shogun" changeset="7708578" lat="51.0546742" lon="12.6927185">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432640" version="1" timestamp="2011-03-29T17:07:12Z" uid="94315" user="shogun" changeset="7708578" lat="51.0515701" lon="12.6929107">
+
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432650" version="1" timestamp="2011-03-29T17:07:13Z" uid="94315" user="shogun" changeset="7708578" lat="51.0546885" lon="12.6894276">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432651" version="1" timestamp="2011-03-29T17:07:13Z" uid="94315" user="shogun" changeset="7708578" lat="51.0535405" lon="12.6985251">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432661" version="2" timestamp="2011-04-03T13:55:00Z" uid="94315" user="shogun" changeset="7754421" lat="51.054037" lon="12.6949931">
+
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432662" version="1" timestamp="2011-03-29T17:07:13Z" uid="94315" user="shogun" changeset="7708578" lat="51.0537997" lon="12.6966507">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432663" version="1" timestamp="2011-03-29T17:07:13Z" uid="94315" user="shogun" changeset="7708578" lat="51.0543457" lon="12.6934167">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432673" version="2" timestamp="2011-04-03T13:54:19Z" uid="94315" user="shogun" changeset="7754421" lat="51.0527455" lon="12.6972461">
+
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432674" version="1" timestamp="2011-03-29T17:07:14Z" uid="94315" user="shogun" changeset="7708578" lat="51.0533839" lon="12.6961675">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432685" version="1" timestamp="2011-03-29T17:07:14Z" uid="94315" user="shogun" changeset="7708578" lat="51.0519587" lon="12.6946346">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432686" version="1" timestamp="2011-03-29T17:07:14Z" uid="94315" user="shogun" changeset="7708578" lat="51.0527846" lon="12.6990425">
+    <tag k="fire_hydrant:diameter" v="200"/>
+
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432698" version="2" timestamp="2011-04-03T13:55:03Z" uid="94315" user="shogun" changeset="7754421" lat="51.0503578" lon="12.6954254">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+
+  <node id="1230838391" version="1" timestamp="2011-04-03T13:54:06Z" uid="94315" user="shogun" changeset="7754421" lat="51.0510125" lon="12.640668">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1230838445" version="1" timestamp="2011-04-03T13:54:08Z" uid="94315" user="shogun" changeset="7754421" lat="51.0523195" lon="12.680296">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1230838580" version="1" timestamp="2011-04-03T13:54:11Z" uid="94315" user="shogun" changeset="7754421" lat="51.0519064" lon="12.6911389">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304788" version="1" timestamp="2011-04-07T17:18:36Z" uid="94315" user="shogun" changeset="7796467" lat="51.0556145" lon="12.6999824">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304804" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0509832" lon="12.7045326">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304806" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0592161" lon="12.6918187">
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="name" v="Gartenhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304807" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0559738" lon="12.6969795">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304814" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0590197" lon="12.6946744">
+
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304817" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0576431" lon="12.6962938">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+
+  <node id="1236304820" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0520272" lon="12.6993973">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304838" version="1" timestamp="2011-04-07T17:18:37Z" uid="94315" user="shogun" changeset="7796467" lat="51.0586921" lon="12.6932248">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1236304844" version="1" timestamp="2011-04-07T17:18:38Z" uid="94315" user="shogun" changeset="7796467" lat="51.0566248" lon="12.6916475">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304847" version="1" timestamp="2011-04-07T17:18:38Z" uid="94315" user="shogun" changeset="7796467" lat="51.0525111" lon="12.7008792">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304858" version="1" timestamp="2011-04-07T17:18:38Z" uid="94315" user="shogun" changeset="7796467" lat="51.0586062" lon="12.691359">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304869" version="1" timestamp="2011-04-07T17:18:38Z" uid="94315" user="shogun" changeset="7796467" lat="51.0561338" lon="12.6957929">
+    <tag k="fire_hydrant:diameter" v="80"/>
+
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304870" version="1" timestamp="2011-04-07T17:18:38Z" uid="94315" user="shogun" changeset="7796467" lat="51.0551504" lon="12.6953993">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304874" version="1" timestamp="2011-04-07T17:18:38Z" uid="94315" user="shogun" changeset="7796467" lat="51.0568448" lon="12.696019">
+
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304883" version="1" timestamp="2011-04-07T17:18:39Z" uid="94315" user="shogun" changeset="7796467" lat="51.051622" lon="12.7031491">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+
+  <node id="1236304899" version="1" timestamp="2011-04-07T17:18:39Z" uid="94315" user="shogun" changeset="7796467" lat="51.0513019" lon="12.7022402">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304913" version="1" timestamp="2011-04-07T17:18:39Z" uid="94315" user="shogun" changeset="7796467" lat="51.0511867" lon="12.7046129">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1236304927" version="1" timestamp="2011-04-07T17:18:40Z" uid="94315" user="shogun" changeset="7796467" lat="51.0576663" lon="12.6939729">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1236304930" version="1" timestamp="2011-04-07T17:18:40Z" uid="94315" user="shogun" changeset="7796467" lat="51.0516565" lon="12.7007155">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1238952361" version="1" timestamp="2011-04-09T17:36:26Z" uid="94315" user="shogun" changeset="7815521" lat="51.14558" lon="12.6553721">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1238952363" version="1" timestamp="2011-04-09T17:36:26Z" uid="94315" user="shogun" changeset="7815521" lat="51.143865" lon="12.6553342">
+    <tag k="fire_hydrant:diameter" v="80"/>
+
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1238952369" version="1" timestamp="2011-04-09T17:36:26Z" uid="94315" user="shogun" changeset="7815521" lat="51.1460103" lon="12.6512894">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1238952385" version="1" timestamp="2011-04-09T17:36:27Z" uid="94315" user="shogun" changeset="7815521" lat="51.1429947" lon="12.6574326">
+
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1238952405" version="1" timestamp="2011-04-09T17:36:28Z" uid="94315" user="shogun" changeset="7815521" lat="51.1442983" lon="12.6565836">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+
+  <node id="1238952407" version="1" timestamp="2011-04-09T17:36:28Z" uid="94315" user="shogun" changeset="7815521" lat="51.1461768" lon="12.653102">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1238952408" version="1" timestamp="2011-04-09T17:36:28Z" uid="94315" user="shogun" changeset="7815521" lat="51.1467102" lon="12.6524244">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1293286619" version="2" timestamp="2011-05-24T22:58:23Z" uid="313470" user="Pwa" changeset="8240534" lat="51.5967051" lon="9.5580915">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="name" v="H 100"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1293286624" version="2" timestamp="2011-05-24T22:58:24Z" uid="313470" user="Pwa" changeset="8240534" lat="51.5965284" lon="9.5593128">
+
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="8"/>
+  </node>
+  <node id="1362481996" version="2" timestamp="2011-09-30T13:41:32Z" uid="201359" user="wambacher" changeset="9435381" lat="50.0931876" lon="8.0976345">
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="2"/>
+  </node>
+  <node id="1392617650" version="5" timestamp="2011-08-19T17:42:56Z" uid="500899" user="feuerwehrphilipp" changeset="9067638" lat="50.6614069" lon="11.570169">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="Gehweg"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+
+  </node>
+  <node id="1396102770" version="4" timestamp="2011-08-19T17:42:57Z" uid="500899" user="feuerwehrphilipp" changeset="9067638" lat="50.6610065" lon="11.5662968">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="Fahrbahn"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="5 bar"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+
+  <node id="1396111379" version="2" timestamp="2011-08-26T19:39:01Z" uid="500899" user="feuerwehrphilipp" changeset="9132462" lat="50.6625401" lon="11.5689792">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="Fahrbahn"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1419100202" version="1" timestamp="2011-08-31T11:00:08Z" uid="201359" user="wambacher" changeset="9175257" lat="50.1391498" lon="8.0678028">
+    <tag k="fire_hydrant:diameter" v="150"/>
+
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1427376809" version="1" timestamp="2011-09-08T20:10:20Z" uid="60824" user="Carsten Güse" changeset="9249147" lat="53.8287354" lon="8.7763382">
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+
+  <node id="1429256983" version="1" timestamp="2011-09-10T19:40:57Z" uid="60824" user="Carsten Güse" changeset="9265176" lat="53.8318515" lon="8.7768733">
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1433008378" version="1" timestamp="2011-09-14T19:58:03Z" uid="60824" user="Carsten Güse" changeset="9302808" lat="53.8308221" lon="8.7651082">
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1445484688" version="1" timestamp="2011-09-25T14:25:34Z" uid="60824" user="Carsten Güse" changeset="9392959" lat="53.8271658" lon="8.7634886">
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1447976893" version="1" timestamp="2011-09-28T12:37:09Z" uid="201359" user="wambacher" changeset="9418690" lat="50.1494137" lon="8.0839654">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1448055700" version="1" timestamp="2011-09-28T13:52:44Z" uid="201359" user="wambacher" changeset="9419778" lat="50.1486773" lon="8.0855809">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1449400204" version="1" timestamp="2011-09-30T09:14:34Z" uid="201359" user="wambacher" changeset="9433642" lat="50.1064125" lon="8.1018735">
+
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1449400205" version="1" timestamp="2011-09-30T09:14:34Z" uid="201359" user="wambacher" changeset="9433642" lat="50.107856" lon="8.1001826">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1450880133" version="1" timestamp="2011-10-01T15:57:36Z" uid="60824" user="Carsten Güse" changeset="9443572" lat="53.8280596" lon="8.7761306">
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1455021515" version="1" timestamp="2011-10-04T15:47:15Z" uid="96069" user="theophrastos" changeset="9470477" lat="49.9051774" lon="10.8607152">
+    <tag k="fire_hydrant:diameter" v="100"/>
+
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1455058832" version="1" timestamp="2011-10-04T16:19:28Z" uid="96069" user="theophrastos" changeset="9470748" lat="49.9052138" lon="10.857888">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1455058835" version="1" timestamp="2011-10-04T16:19:28Z" uid="96069" user="theophrastos" changeset="9470748" lat="49.9054205" lon="10.8571109">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1455058838" version="1" timestamp="2011-10-04T16:19:28Z" uid="96069" user="theophrastos" changeset="9470748" lat="49.9056336" lon="10.8544659">
+    <tag k="fire_hydrant:diameter" v="80"/>
+
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1455058839" version="1" timestamp="2011-10-04T16:19:28Z" uid="96069" user="theophrastos" changeset="9470748" lat="49.9059179" lon="10.857111">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+
+  </node>
+  <node id="1455058843" version="1" timestamp="2011-10-04T16:19:29Z" uid="96069" user="theophrastos" changeset="9470748" lat="49.9061698" lon="10.856229">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1456617866" version="1" timestamp="2011-10-06T10:08:10Z" uid="528410" user="staysafe" changeset="9484290" lat="48.6473695" lon="7.8850694">
+    <tag k="ref" v="staysafe"/>
+
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="name" v="UF ???"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="operator" v="Stadt Rheinau"/>
+    <tag k="note" v="UF ???"/>
+  </node>
+  <node id="1456617867" version="1" timestamp="2011-10-06T10:08:10Z" uid="528410" user="staysafe" changeset="9484290" lat="48.6469033" lon="7.8882667">
+    <tag k="ref" v="staysafe"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="name" v="UF"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="operator" v="Stadt Rheinau"/>
+    <tag k="note" v="UF"/>
+  </node>
+  <node id="1456618102" version="2" timestamp="2011-10-13T09:32:13Z" uid="528410" user="staysafe" changeset="9545486" lat="48.6441558" lon="7.8895406">
+    <tag k="fire_hydrant:diameter" v="NOT_KNOWN"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="name" v="UF"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+    <tag k="operator" v="Stadt Rheinau"/>
+    <tag k="note" v="UF???"/>
+  </node>
+  <node id="1456618103" version="2" timestamp="2011-10-13T09:32:13Z" uid="528410" user="staysafe" changeset="9545486" lat="48.6481907" lon="7.8855415">
+    <tag k="fire_hydrant:diameter" v="NOT_KNOWN"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="name" v="UF"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+    <tag k="operator" v="Stadt Rheinau"/>
+    <tag k="note" v="UF???"/>
+  </node>
+  <node id="1456618104" version="2" timestamp="2011-10-13T09:32:14Z" uid="528410" user="staysafe" changeset="9545486" lat="48.649105" lon="7.8882317">
+    <tag k="fire_hydrant:diameter" v="NOT_KNOWN"/>
+
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="name" v="UF"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+    <tag k="operator" v="Stadt Rheinau"/>
+    <tag k="note" v="UF???"/>
+  </node>
+  <node id="1459829497" version="1" timestamp="2011-10-09T11:41:49Z" uid="96069" user="theophrastos" changeset="9511075" lat="49.8961076" lon="10.8696373">
+
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1459829499" version="1" timestamp="2011-10-09T11:41:49Z" uid="96069" user="theophrastos" changeset="9511075" lat="49.8963652" lon="10.8692733">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1459829514" version="1" timestamp="2011-10-09T11:41:49Z" uid="96069" user="theophrastos" changeset="9511075" lat="49.8968205" lon="10.8679709">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="sidewalk"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1459829518" version="1" timestamp="2011-10-09T11:41:49Z" uid="96069" user="theophrastos" changeset="9511075" lat="49.8975572" lon="10.8676967">
+
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1459876460" version="1" timestamp="2011-10-09T12:18:51Z" uid="96069" user="theophrastos" changeset="9511447" lat="49.8896134" lon="10.8832212">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1459899656" version="3" timestamp="2012-01-08T13:31:19Z" uid="96069" user="theophrastos" changeset="10331355" lat="49.8952942" lon="10.8899396">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="lane"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+</osm>

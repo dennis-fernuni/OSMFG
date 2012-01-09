@@ -1,0 +1,3 @@
+NODE__traffic_signals = "highway=traffic_signals" [ "traffic_signals:sound=" traffic_signals_sound ] [ "traffic_signals:vibration=" traffic_signals_vibration ] ;
+traffic_signals_sound = "locate" | "walk" | "yes" | "no" ;
+traffic_signals_vibration = "yes" | "no" ;

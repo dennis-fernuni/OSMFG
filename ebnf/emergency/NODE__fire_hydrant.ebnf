@@ -1,0 +1,7 @@
+NODE__ermergency_fire_hydrant = "emergency=fire_hydrant" [ "fire_hydrant:type=" fire_hydrant_type ] [ "fire_hydrant:diameter=" fire_hydrant_diameter ] [ "fire_hydrant:preasure=" fire_hydrant_preasure ] [ "fire_hydrant:position=" fire_hydrant_position ] [ fire_hydrant_count ] ;
+fire_hydrant_type = "underground" | "pillar" | "wall" | "pond" ;
+fire_hydrant_diameter = "fire_hydrant:type=" NUMBER ;
+fire_hydrant_preasure = "fire_hydrant:preasure=" NUMBER ;
+fire_hydrant_position = "lane" | "parking_lot" | "sidewalk" | "green" ;
+fire_hydrant_count = "fire_hydrant_count=" NUMBER ;
+

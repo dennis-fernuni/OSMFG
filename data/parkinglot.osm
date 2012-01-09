@@ -1,0 +1,867 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis SNAPSHOT-r26564">
+  <node id="708120846" version="7" timestamp="2011-11-15T16:45:12Z" uid="149408" user="sebastian89" changeset="9836358" lat="50.8278689" lon="6.8873974">
+    <tag k="fire_hydrant:diameter" v="350"/>
+    <tag k="fire_hydrant" v="underground"/>
+    <tag k="source" v="GPS"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="H 350"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="note" v="nicht verschieben"/>
+  </node>
+  <node id="765876752" version="5" timestamp="2010-10-19T09:07:52Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094889" lat="52.2694126" lon="8.0241137">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant" v="underground"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="765876753" version="5" timestamp="2010-10-19T09:08:06Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094889" lat="52.269994" lon="8.0252745">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant" v="underground"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="849150705" version="3" timestamp="2010-10-19T09:05:10Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="50.1387868" lon="8.0670091">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant" v="underground"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="849479388" version="8" timestamp="2011-11-08T17:52:34Z" uid="82877" user="Wankmann" changeset="9775290" lat="49.5557979" lon="11.3447006">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="853973509" version="3" timestamp="2010-10-19T09:06:30Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="50.1046782" lon="8.0767598">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant" v="underground"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="873712878" version="6" timestamp="2011-09-10T23:08:38Z" uid="302852" user="be-ju" changeset="9266774" lat="50.483488" lon="8.7943545">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pond"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="886464829" version="3" timestamp="2010-10-19T09:05:47Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="49.7878743" lon="9.9312828">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="note" v="Position geschätzt"/>
+  </node>
+  <node id="895369152" version="2" timestamp="2010-10-19T09:04:17Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="50.195682" lon="10.081558">
+    <tag k="fire_hydrant:diameter" v="125"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="900492120" version="2" timestamp="2010-10-19T09:04:17Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="50.198848" lon="10.084756">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="908321138" version="2" timestamp="2010-10-19T09:06:10Z" uid="26348" user="Rodolphe Quiédeville" changeset="6094812" lat="50.198185" lon="10.078147">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="911061377" version="5" timestamp="2011-11-27T11:09:56Z" uid="111462" user="Posemuckel" changeset="9965262" lat="52.3645683" lon="13.519466">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="UFH Kantine"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="6"/>
+    <tag k="fire_hydrant:count" v="1"/>
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="operator" v="FBS"/>
+  </node>
+  <node id="971101425" version="2" timestamp="2011-01-03T21:33:12Z" uid="165411" user="Stepili" changeset="6855036" lat="47.6389293" lon="8.2415111">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="973006033" version="3" timestamp="2011-01-22T01:24:50Z" uid="124837" user="swus" changeset="7046468" lat="52.4390554" lon="9.7124075">
+    <tag k="ref" v="10612"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="fire_hydrant:pipe_diameter" v="300"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="973006036" version="3" timestamp="2011-01-22T01:24:04Z" uid="124837" user="swus" changeset="7046468" lat="52.4380565" lon="9.7126787">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="fire_hydrant:pipe_diameter" v="100"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="973006082" version="3" timestamp="2011-01-22T01:25:05Z" uid="124837" user="swus" changeset="7046468" lat="52.4392967" lon="9.7101888">
+    <tag k="ref" v="10613"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="fire_hydrant:pipe_diameter" v="300"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="973006100" version="3" timestamp="2011-01-22T01:22:16Z" uid="124837" user="swus" changeset="7046468" lat="52.4367721" lon="9.7077761">
+    <tag k="ref" v="21189"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="fire_hydrant:pipe_diameter" v="80"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="973006283" version="3" timestamp="2011-01-22T01:23:41Z" uid="124837" user="swus" changeset="7046468" lat="52.4380902" lon="9.7145889">
+    <tag k="ref" v="60957"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="fire_hydrant:pipe_diameter" v="100"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="973006313" version="3" timestamp="2011-01-22T01:25:38Z" uid="124837" user="swus" changeset="7046468" lat="52.4390529" lon="9.7124606">
+    <tag k="ref" v="10611"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="fire_hydrant:pipe_diameter" v="300"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1041746970" version="4" timestamp="2011-06-04T11:54:15Z" uid="23981" user="NaSH" changeset="8338389" lat="45.5826009" lon="-0.8345771">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1079384674" version="2" timestamp="2011-02-05T22:39:53Z" uid="5359" user="user_5359" changeset="7198192" lat="48.3545724" lon="10.887968">
+    <tag k="fire_hydrant" v="pillar"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1124863436" version="1" timestamp="2011-01-28T14:10:28Z" uid="201359" user="wambacher" changeset="7111985" lat="50.1385273" lon="8.0624201">
+    <tag k="fire_hydrant:diameter" v="125"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1126219590" version="2" timestamp="2011-03-23T12:15:45Z" uid="425326" user="SGBKS" changeset="7645921" lat="54.1456981" lon="11.7286336">
+    <tag k="fire_hydrant:diameter" v="50"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="FFW-Hydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="500 l/Min"/>
+  </node>
+  <node id="1135787726" version="1" timestamp="2011-02-04T15:43:03Z" uid="398764" user="Martin94" changeset="7184379" lat="49.5168964" lon="11.3129853">
+    <tag k="fire_hydrant:diameter" v="fixme"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1168326847" version="2" timestamp="2011-03-08T20:40:43Z" uid="201359" user="wambacher" changeset="7498085" lat="50.0895063" lon="8.1180279">
+    <tag k="fire_hydrant:diameter" v="110"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1180683770" version="1" timestamp="2011-03-01T13:34:49Z" uid="371943" user="alexyaph" changeset="7429293" lat="48.1770433" lon="16.0742502">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1187756080" version="1" timestamp="2011-03-05T19:14:07Z" uid="124837" user="swus" changeset="7466761" lat="48.113873" lon="11.523482">
+    <tag k="ref" v="27632"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1187756140" version="1" timestamp="2011-03-05T19:14:11Z" uid="124837" user="swus" changeset="7466761" lat="48.1130501" lon="11.5236043">
+    <tag k="ref" v="27633"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1187756147" version="1" timestamp="2011-03-05T19:14:12Z" uid="124837" user="swus" changeset="7466761" lat="48.1144241" lon="11.5234568">
+    <tag k="ref" v="27631"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1189422186" version="1" timestamp="2011-03-06T16:01:34Z" uid="124837" user="swus" changeset="7474728" lat="48.1150928" lon="11.528562">
+    <tag k="ref" v="32997"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1189422286" version="1" timestamp="2011-03-06T16:01:37Z" uid="124837" user="swus" changeset="7474728" lat="48.1134894" lon="11.525989">
+    <tag k="ref" v="4897"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1192910924" version="1" timestamp="2011-03-08T17:22:53Z" uid="124837" user="swus" changeset="7495908" lat="48.1322788" lon="11.5450337">
+    <tag k="ref" v="51305"/>
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1212439106" version="1" timestamp="2011-03-21T20:33:25Z" uid="60824" user="Carsten Güse" changeset="7631577" lat="49.6658543" lon="8.8052123">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1212607434" version="1" timestamp="2011-03-21T22:46:42Z" uid="88448" user="Ted Pottage" changeset="7632635" lat="52.1860521" lon="-2.195184">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1213479743" version="1" timestamp="2011-03-22T15:52:36Z" uid="292431" user="H-PSchröder" changeset="7638181" lat="51.9972412" lon="8.4702356">
+    <tag k="ref" v="5103"/>
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="operator" v="Stadtwerke Bielefeld"/>
+  </node>
+  <node id="1223448300" version="1" timestamp="2011-03-28T18:43:51Z" uid="427968" user="reservist1488" changeset="7699912" lat="49.5304559" lon="10.4812584">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Neben Raiba Lagerhaus, ohne Nr."/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1223448455" version="1" timestamp="2011-03-28T18:44:00Z" uid="427968" user="reservist1488" changeset="7699912" lat="49.5284593" lon="10.4857026">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Nr. 4"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1223448491" version="1" timestamp="2011-03-28T18:44:02Z" uid="427968" user="reservist1488" changeset="7699912" lat="49.5270121" lon="10.4802011">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Nr. 14"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1223448587" version="1" timestamp="2011-03-28T18:44:07Z" uid="427968" user="reservist1488" changeset="7699912" lat="49.5305408" lon="10.4808274">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Halle Flory, ohne Nr."/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1223448684" version="1" timestamp="2011-03-28T18:44:13Z" uid="427968" user="reservist1488" changeset="7699912" lat="49.52523" lon="10.4834891">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Nr. 26"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432626" version="2" timestamp="2011-04-03T13:54:55Z" uid="94315" user="shogun" changeset="7754421" lat="51.054571" lon="12.6905285">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432673" version="2" timestamp="2011-04-03T13:54:19Z" uid="94315" user="shogun" changeset="7754421" lat="51.0527455" lon="12.6972461">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1224432674" version="1" timestamp="2011-03-29T17:07:14Z" uid="94315" user="shogun" changeset="7708578" lat="51.0533839" lon="12.6961675">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1228275361" version="1" timestamp="2011-04-01T19:38:18Z" uid="430668" user="abvxtgjn" changeset="7738600" lat="50.2556865" lon="8.6440159">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1229429466" version="2" timestamp="2011-04-08T11:48:19Z" uid="427820" user="Igel18" changeset="7803376" lat="48.1358113" lon="10.5843569">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Grundschule"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="3"/>
+    <tag k="operator" v="FFW Markt Wald"/>
+  </node>
+  <node id="1230484259" version="2" timestamp="2011-04-08T11:48:20Z" uid="427820" user="Igel18" changeset="7803376" lat="48.138199" lon="10.5824921">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Feuerwehrhaus"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="3"/>
+    <tag k="operator" v="FFW Markt Wald"/>
+  </node>
+  <node id="1230484281" version="2" timestamp="2011-04-08T11:48:20Z" uid="427820" user="Igel18" changeset="7803376" lat="48.136801" lon="10.5862534">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Gartenstraße"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="operator" v="FFW Markt Wald"/>
+  </node>
+  <node id="1232820133" version="1" timestamp="2011-04-04T19:12:01Z" uid="427820" user="Igel18" changeset="7768309" lat="48.1353486" lon="10.5764299">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Turnhalle"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="3"/>
+    <tag k="operator" v="FFW Markt Wald"/>
+  </node>
+  <node id="1233572972" version="2" timestamp="2011-04-08T11:48:20Z" uid="427820" user="Igel18" changeset="7803376" lat="48.1365069" lon="10.5798517">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Gemeinde"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="operator" v="FFW Markt Wald"/>
+  </node>
+  <node id="1242855088" version="4" timestamp="2011-04-14T19:07:49Z" uid="208879" user="Vasile Stan" changeset="7863907" lat="46.7655235" lon="23.5823291">
+    <tag k="KML_FOLDER" v="aka1"/>
+    <tag k="ELEVATION" v="356.769"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="hidrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1243553697" version="2" timestamp="2011-04-23T17:52:48Z" uid="169808" user="57knut" changeset="7945763" lat="51.7981164" lon="8.9777464">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1243553706" version="2" timestamp="2011-04-23T17:52:48Z" uid="169808" user="57knut" changeset="7945763" lat="51.7981257" lon="8.9777428">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1246720370" version="4" timestamp="2011-11-19T15:38:28Z" uid="82877" user="Wankmann" changeset="9874108" lat="49.5658046" lon="11.3380929">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1256051373" version="1" timestamp="2011-04-22T22:24:27Z" uid="165411" user="Stepili" changeset="7939310" lat="47.6441661" lon="8.2439442">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1258872321" version="2" timestamp="2011-04-27T22:09:22Z" uid="88928" user="od30" changeset="7989980" lat="53.8009867" lon="10.35652">
+    <tag k="ref" v="711"/>
+    <tag k="fire_hydrant:diameter" v="225"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1259859309" version="1" timestamp="2011-04-25T17:24:44Z" uid="165411" user="Stepili" changeset="7966243" lat="47.6253156" lon="8.2540763">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1259859329" version="1" timestamp="2011-04-25T17:24:45Z" uid="165411" user="Stepili" changeset="7966243" lat="47.6486784" lon="8.2459652">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1266751558" version="1" timestamp="2011-04-30T10:09:12Z" uid="16008" user="Tric" changeset="8010320" lat="47.1137184" lon="8.6236187">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1269759156" version="1" timestamp="2011-05-01T20:56:04Z" uid="165411" user="Stepili" changeset="8026066" lat="47.8167249" lon="8.1686336">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1278074000" version="1" timestamp="2011-05-09T10:34:58Z" uid="88448" user="Ted Pottage" changeset="8091496" lat="43.5869493" lon="0.0828208">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1278413986" version="1" timestamp="2011-05-09T18:02:29Z" uid="88448" user="Ted Pottage" changeset="8095083" lat="48.6252437" lon="2.4285345">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1280809025" version="1" timestamp="2011-05-11T22:40:22Z" uid="88448" user="Ted Pottage" changeset="8117353" lat="49.8880598" lon="2.8370978">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="suction"/>
+    <tag k="fire_hydrant:water_reserve" v="60 [cu metres]"/>
+  </node>
+  <node id="1289408527" version="1" timestamp="2011-05-17T19:57:39Z" uid="88448" user="Ted Pottage" changeset="8175440" lat="47.5977308" lon="0.914134">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1301165266" version="2" timestamp="2011-08-19T17:46:52Z" uid="124837" user="swus" changeset="9067710" lat="48.1324239" lon="11.5583651">
+    <tag k="ref" v="2015"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="note" v="*L* Links öffnend"/>
+  </node>
+  <node id="1301351908" version="1" timestamp="2011-05-27T00:22:29Z" uid="39567" user="rohieb" changeset="8258406" lat="52.2752284" lon="10.5285881">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1317719135" version="2" timestamp="2011-08-28T17:54:19Z" uid="165411" user="Stepili" changeset="9149815" lat="47.6411689" lon="8.2475338">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1349837088" version="1" timestamp="2011-07-05T00:59:36Z" uid="53670" user="Stan4Life" changeset="8635182" lat="48.8228509" lon="9.1160751">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+  </node>
+  <node id="1349837099" version="1" timestamp="2011-07-05T00:59:37Z" uid="53670" user="Stan4Life" changeset="8635182" lat="48.8218785" lon="9.1151557">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+  </node>
+  <node id="1349837140" version="1" timestamp="2011-07-05T00:59:37Z" uid="53670" user="Stan4Life" changeset="8635182" lat="48.821977" lon="9.1141838">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+  </node>
+  <node id="1359534498" version="1" timestamp="2011-07-12T15:48:20Z" uid="398764" user="Martin94" changeset="8704432" lat="49.5231074" lon="11.3145617">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1363137173" version="1" timestamp="2011-07-15T23:41:03Z" uid="88448" user="Ted Pottage" changeset="8735582" lat="45.7800764" lon="1.3061004">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1385294138" version="1" timestamp="2011-08-03T21:45:00Z" uid="53202" user="tc67nhf" changeset="8914828" lat="51.2795234" lon="12.5890392">
+    <tag k="fire_hydrant:diameter" v="300"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="WUR020"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="gps_error" v="3.9"/>
+  </node>
+  <node id="1388949766" version="1" timestamp="2011-08-06T21:22:17Z" uid="330055" user="Mecki" changeset="8942173" lat="52.1338652" lon="10.640353">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1390750726" version="2" timestamp="2011-08-09T01:52:27Z" uid="330055" user="Mecki" changeset="8963062" lat="52.1323933" lon="10.6435273">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1391163052" version="1" timestamp="2011-08-08T17:18:27Z" uid="97928" user="Al3xius" changeset="8959457" lat="45.2725463" lon="11.6564236">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1397312721" version="1" timestamp="2011-08-13T16:55:48Z" uid="330055" user="Mecki" changeset="9007262" lat="52.1307166" lon="10.639277">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1407134877" version="1" timestamp="2011-08-21T14:50:35Z" uid="399634" user="Tereco" changeset="9084914" lat="53.8097181" lon="8.9052438">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1410073458" version="1" timestamp="2011-08-23T15:33:57Z" uid="88448" user="Ted Pottage" changeset="9104721" lat="43.5783385" lon="0.0823575">
+    <tag k="source" v="GPS &amp; photo"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1411195377" version="1" timestamp="2011-08-24T12:17:02Z" uid="423685" user="geri-oc" changeset="9112004" lat="50.8361947" lon="13.6755353">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1411195388" version="1" timestamp="2011-08-24T12:17:02Z" uid="423685" user="geri-oc" changeset="9112004" lat="50.8362161" lon="13.6755072">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1412543620" version="1" timestamp="2011-08-25T19:43:58Z" uid="124837" user="swus" changeset="9124279" lat="48.136025" lon="11.5519356">
+    <tag k="ref" v="2709"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1429900275" version="2" timestamp="2011-09-11T10:20:01Z" uid="516930" user="mayrh" changeset="9269448" lat="48.2422513" lon="10.8003792">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1440565200" version="1" timestamp="2011-09-22T17:59:07Z" uid="515642" user="yellow" changeset="9370835" lat="47.6471371" lon="8.133033">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1440565209" version="1" timestamp="2011-09-22T17:59:07Z" uid="515642" user="yellow" changeset="9370835" lat="47.647231" lon="8.1325688">
+    <tag k="phone" v="07755 235"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fax" v="07755 8302"/>
+    <tag k="cuisine" v="regional"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="restaurant"/>
+  </node>
+  <node id="1448055700" version="1" timestamp="2011-09-28T13:52:44Z" uid="201359" user="wambacher" changeset="9419778" lat="50.1486773" lon="8.0855809">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1457846561" version="3" timestamp="2011-10-08T12:33:33Z" uid="516930" user="mayrh" changeset="9502126" lat="48.2620911" lon="10.7928214">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1457846563" version="3" timestamp="2011-10-08T12:33:33Z" uid="516930" user="mayrh" changeset="9502126" lat="48.2622343" lon="10.7904525">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1457846567" version="2" timestamp="2011-10-07T19:43:25Z" uid="516930" user="mayrh" changeset="9497022" lat="48.2628615" lon="10.7884182">
+    <tag k="fire_hydrant:diameter" v="250"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1457846569" version="2" timestamp="2011-10-07T19:43:25Z" uid="516930" user="mayrh" changeset="9497022" lat="48.2657949" lon="10.7913528">
+    <tag k="fire_hydrant:diameter" v="250"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1457846571" version="2" timestamp="2011-10-07T19:43:25Z" uid="516930" user="mayrh" changeset="9497022" lat="48.266193" lon="10.7916647">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1461493713" version="2" timestamp="2011-10-31T16:27:11Z" uid="12178" user="edwin-ldbg" changeset="9704967" lat="47.606461" lon="9.8934013">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1462968549" version="2" timestamp="2011-10-17T18:14:32Z" uid="189987" user="Bornemaxx" changeset="9584567" lat="51.3355896" lon="13.3436648">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1470721028" version="1" timestamp="2011-10-17T12:30:29Z" uid="81244" user="rurseekatze" changeset="9581545" lat="51.2090758" lon="6.673473">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1482097571" version="1" timestamp="2011-10-27T07:52:15Z" uid="39381" user="DD1GJ" changeset="9666219" lat="48.7541122" lon="8.2646892">
+    <tag k="ref" v="258"/>
+    <tag k="fire_hydrant:diameter" v="250"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1482180531" version="1" timestamp="2011-10-27T10:10:30Z" uid="49873" user="TooM" changeset="9667025" lat="46.518693" lon="3.6846005">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="6"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1483888080" version="1" timestamp="2011-10-28T18:41:16Z" uid="354284" user="sbiribizio" changeset="9679094" lat="45.1363598" lon="8.4418185">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1487490953" version="1" timestamp="2011-10-31T16:27:11Z" uid="12178" user="edwin-ldbg" changeset="9704967" lat="47.6052999" lon="9.892181">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1487490954" version="1" timestamp="2011-10-31T16:27:11Z" uid="12178" user="edwin-ldbg" changeset="9704967" lat="47.6053783" lon="9.8900419">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1487490955" version="1" timestamp="2011-10-31T16:27:11Z" uid="12178" user="edwin-ldbg" changeset="9704967" lat="47.6057804" lon="9.891779">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1487503013" version="1" timestamp="2011-10-31T16:38:54Z" uid="546788" user="zandalf" changeset="9705085" lat="47.9988399" lon="10.9579669">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="suction"/>
+    <tag k="fire_hydrant:count" v="1"/>
+  </node>
+  <node id="1487802067" version="2" timestamp="2011-11-13T09:24:50Z" uid="540187" user="m-pt" changeset="9811264" lat="52.1008502" lon="8.0891301">
+    <tag k="ref" v="42a"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Thieplatz Ascheberg"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1488481028" version="1" timestamp="2011-11-01T13:08:13Z" uid="547448" user="Zörker" changeset="9712383" lat="49.9047284" lon="10.1937459">
+    <tag k="fire_hydrant:diameter" v="125"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1488481071" version="1" timestamp="2011-11-01T13:08:18Z" uid="547448" user="Zörker" changeset="9712383" lat="49.9121838" lon="10.1949089">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Unterflurhydrant"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1488986481" version="2" timestamp="2011-11-13T09:21:50Z" uid="540187" user="m-pt" changeset="9811264" lat="52.1025915" lon="8.0816506">
+    <tag k="ref" v="58a"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Mühlenstraße - Geschwister-Scholl-Oberschule"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1496383022" version="1" timestamp="2011-11-09T15:05:27Z" uid="96069" user="theophrastos" changeset="9781994" lat="49.9081219" lon="10.9154016">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1497159667" version="1" timestamp="2011-11-10T10:20:07Z" uid="2472" user="cwh" changeset="9787642" lat="50.0469683" lon="11.6441261">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1503339571" version="1" timestamp="2011-11-14T20:35:07Z" uid="540187" user="m-pt" changeset="9828581" lat="52.1015503" lon="8.0618104">
+    <tag k="ref" v="19"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Heideweg 35 / 37"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1503339575" version="1" timestamp="2011-11-14T20:35:07Z" uid="540187" user="m-pt" changeset="9828581" lat="52.1015669" lon="8.0597132">
+    <tag k="ref" v="18"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Heideweg 49"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1503339598" version="1" timestamp="2011-11-14T20:35:08Z" uid="540187" user="m-pt" changeset="9828581" lat="52.100546" lon="8.0562518">
+    <tag k="ref" v="14a"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Im Lohfeld 10 / 12"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1503339651" version="1" timestamp="2011-11-14T20:35:10Z" uid="540187" user="m-pt" changeset="9828581" lat="52.0976426" lon="8.0696392">
+    <tag k="ref" v="8a"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Örtlingerort bei Plengemeyer"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1508640765" version="1" timestamp="2011-11-19T15:16:44Z" uid="516930" user="mayrh" changeset="9873924" lat="48.2466751" lon="10.8037384">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1508640766" version="1" timestamp="2011-11-19T15:16:44Z" uid="516930" user="mayrh" changeset="9873924" lat="48.2471987" lon="10.8096406">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1512960313" version="1" timestamp="2011-11-22T16:44:28Z" uid="118134" user="scai" changeset="9910781" lat="50.6824582" lon="11.2614453">
+    <tag k="fire_hydrant:diameter" v="80"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1514274654" version="2" timestamp="2011-11-25T06:37:10Z" uid="72151" user="GeorgFausB" changeset="9940968" lat="54.2503564" lon="10.047261">
+    <tag k="fire_hydrant:diameter" v="160"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1517593370" version="2" timestamp="2011-11-27T11:09:57Z" uid="111462" user="Posemuckel" changeset="9965262" lat="52.3540175" lon="13.4862303">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="6"/>
+    <tag k="fire_hydrant:count" v="1"/>
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="operator" v="FBS"/>
+  </node>
+  <node id="1517593373" version="2" timestamp="2011-11-27T11:09:57Z" uid="111462" user="Posemuckel" changeset="9965262" lat="52.3540378" lon="13.4863133">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:pressure" v="6"/>
+    <tag k="fire_hydrant:count" v="1"/>
+    <tag k="amenity" v="fire_hydrant"/>
+    <tag k="operator" v="FBS"/>
+  </node>
+  <node id="1521861683" version="1" timestamp="2011-11-28T21:21:01Z" uid="561154" user="OnkelGV" changeset="9982469" lat="52.0657366" lon="9.2718119">
+    <tag k="ref" v="1"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Schloßstraße"/>
+    <tag k="emergency" v="fire_hydrant"/>
+    <tag k="fire_hydrant:count" v="Anzahl"/>
+    <tag k="amenity" v="fire_hydrant"/>
+  </node>
+  <node id="1526060277" version="1" timestamp="2011-12-01T09:26:04Z" uid="201359" user="wambacher" changeset="10006354" lat="52.4038071" lon="13.4159255">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1531983433" version="1" timestamp="2011-12-04T23:42:51Z" uid="88448" user="Ted Pottage" changeset="10038707" lat="43.7340275" lon="-0.266966">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1532664688" version="1" timestamp="2011-12-05T11:59:26Z" uid="563412" user="Codde" changeset="10041252" lat="48.6228708" lon="10.0158687">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1536649335" version="1" timestamp="2011-12-08T14:08:29Z" uid="522101" user="FF_Wattens" changeset="10065364" lat="47.2899978" lon="11.5920011">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="name" v="Hydrant Feuerwehrvorplatz"/>
+  </node>
+  <node id="1547014076" version="1" timestamp="2011-12-15T10:35:03Z" uid="423685" user="geri-oc" changeset="10122955" lat="50.8362605" lon="13.6758292">
+    <tag k="fire_hydrant:diameter" v="125"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1547014078" version="1" timestamp="2011-12-15T10:35:03Z" uid="423685" user="geri-oc" changeset="10122955" lat="50.8362632" lon="13.6758462">
+    <tag k="fire_hydrant:diameter" v="150"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1547014090" version="1" timestamp="2011-12-15T10:35:03Z" uid="423685" user="geri-oc" changeset="10122955" lat="50.836273" lon="13.6758474">
+    <tag k="fire_hydrant:diameter" v="200"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1564074619" version="1" timestamp="2011-12-27T18:45:42Z" uid="516930" user="mayrh" changeset="10218610" lat="48.2484862" lon="10.802203">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1564074636" version="1" timestamp="2011-12-27T18:45:43Z" uid="516930" user="mayrh" changeset="10218610" lat="48.2493441" lon="10.8004755">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1564074668" version="1" timestamp="2011-12-27T18:45:45Z" uid="516930" user="mayrh" changeset="10218610" lat="48.2505268" lon="10.8032293">
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1567079398" version="2" timestamp="2011-12-29T15:55:26Z" uid="516930" user="mayrh" changeset="10236629" lat="48.2456686" lon="10.8008833">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1567958747" version="1" timestamp="2011-12-29T18:45:25Z" uid="540187" user="m-pt" changeset="10238430" lat="52.0949561" lon="8.1202995">
+    <tag k="ref" v="135"/>
+    <tag k="fire_hydrant:diameter" v="100"/>
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="underground"/>
+    <tag k="name" v="Schoppenkamp (SW-PW Müschers Kamp)"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+  <node id="1571535032" version="1" timestamp="2011-12-31T16:36:46Z" uid="130621" user="Médéric RIBREUX" changeset="10256496" lat="50.709919" lon="2.2289141">
+    <tag k="fire_hydrant:position" v="parking_lot"/>
+    <tag k="fire_hydrant:type" v="pillar"/>
+    <tag k="emergency" v="fire_hydrant"/>
+  </node>
+</osm>
